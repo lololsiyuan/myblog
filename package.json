@@ -1,0 +1,16 @@
+{
+  "name": "rotk",
+  "version": "1.0.0",
+  "description": "Return of the king",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "冷墨寒殇",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
